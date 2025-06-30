@@ -13,11 +13,7 @@ An intuitive and modular data cleaning platform built with Python and Streamlit.
 - ✅ Preview and download cleaned datasets
 - ✅ Choose only the steps you need
 
-## 🖼️ Demo
 
-> Add a GIF or video link here once published  
-> Example:  
-> ![App Demo](https://link-to-your-demo.gif)
 
 ## 🛠️ Tech Stack
 
@@ -25,16 +21,8 @@ An intuitive and modular data cleaning platform built with Python and Streamlit.
 - [Pandas](https://pandas.pydata.org/) – for all data operations  
 - [scikit-learn](https://scikit-learn.org/) – LabelEncoder  
 - [xlsxwriter](https://pypi.org/project/XlsxWriter/) – Excel file exports  
-- Docker & AWS Ready 💻☁️
 
 
-## Project Structure
-smart-data-cleaning-app/
-├── app.py                # Streamlit UI
-├── requirements.txt
-└── cleaner/
-    ├── __init__.py
-    ├── cleaning.py       # Main cleaning logic
-    ├── outliers.py       # IQR-based filtering
-    └── report.py         # Cleaning summary generator
+
+
 
