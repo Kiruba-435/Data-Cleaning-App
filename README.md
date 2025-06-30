@@ -27,21 +27,8 @@ An intuitive and modular data cleaning platform built with Python and Streamlit.
 - [xlsxwriter](https://pypi.org/project/XlsxWriter/) – Excel file exports  
 - Docker & AWS Ready 💻☁️
 
-## 📦 Installation
 
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/smart-data-cleaning-app.git
-cd smart-data-cleaning-app
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the app
-streamlit run app.py
-
-
-# Project Structure
+## Project Structure
 smart-data-cleaning-app/
 ├── app.py                # Streamlit UI
 ├── requirements.txt
